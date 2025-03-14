@@ -1,0 +1,51 @@
+フォルダー パスの一覧:  ボリューム OS
+ボリューム シリアル番号は 2E5E-7C10 です
+C:\USERS\KAJIWARA\DOCUMENTS\AITUBER
+│  .env
+│  .gitignore
+│  onnxruntime.dll
+│  onnxruntime_providers_shared.dll
+│  test.txt
+│  voicevox_core-0.14.6+cpu-cp38-abi3-win_amd64.whl
+│  
+├─models
+│      AvatarSample_A.vrm
+│      リンク初号機.vrm
+│      
+├─open_jtalk_dic_utf_8-1.11
+│      char.bin
+│      COPYING
+│      left-id.def
+│      matrix.bin
+│      pos-id.def
+│      rewrite.def
+│      right-id.def
+│      sys.dic
+│      unk.dic
+│      
+├─output
+│      emotion.txt
+│      live_chat_messages.json
+│      output.wav
+│      response.json
+│      txt_message.txt
+│      txt_response.txt
+│      
+├─output_test
+│      aitube_output.txt
+│      info_voice.txt
+│      
+└─src
+    │  emotional_analysis.py
+    │  get_chats.py
+    │  gpt_aituber.py
+    │  main.py
+    │  output_voice.py
+    │  play_sound.py
+    │  
+    └─__pycache__
+            get_chats.cpython-312.pyc
+            gpt_aituber.cpython-312.pyc
+            output_voice.cpython-312.pyc
+            play_sound.cpython-312.pyc
+            
