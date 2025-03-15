@@ -19,7 +19,7 @@ APIやらなんやらを取得しないといけない
 これはyoutubeのlive配信の枠を立ててからじゃないと取得できない  
 枠を立てたら配信ページに行って、v=より後の文字列(v=は含めない)をコピー
 
-![YOUTUBE_VIDEO_ID](./素材/スクリーンショット%202025-03-15%20234337.png)
+![YOUTUBE_VIDEO_ID](./素材/YOUTUBE_VIDEO_ID.png)
 
 ### YOUTUBE_DATA_API_KEY
 
